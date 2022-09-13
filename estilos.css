@@ -1,0 +1,92 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+background-image: linear-gradient(100deg, #024788 0, #5a3dda 25%, #3f6be4 50%, #9336be 75%, #5d2764 100%);
+height: 100vh;
+}
+   
+
+#container{
+    background-color: rgba(255, 255, 255, 0.100);
+    padding: 20px;
+    width: 450px;
+}
+
+#titulo{
+    padding: 10px;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: large;
+}
+
+#link_abre{
+    font-weight: normal;
+    font-size: smaller;
+    
+}
+
+a:link, a:visited{
+    color: #000;
+    border: #000 1px solid;
+    margin-left: 60px;
+    padding: 10px;
+    background-color:  rgba(204, 0, 255, 0.356) ;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #000;
+    border: #000 1px solid;
+    margin-left: 60px;
+    padding: 10px;
+    background-color:  #5d2764;
+    text-decoration: none;
+}
+
+#container1{
+    background-color:  rgba(255, 255, 255, 0.100);
+    padding: 20px;
+    width: 450px;
+}
+
+#titulo1{
+    padding: 10px;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: large;
+}
+
+#link_abre1{
+    font-weight: normal;
+    font-size: smaller;
+}
+
+#container2{
+    background-color:  rgba(255, 255, 255, 0.100);
+    padding: 20px;
+    width: 450px;
+}
+
+#titulo2{
+    padding: 10px;
+    background-color: transparent ;
+    font-weight: bold;
+    font-size: large;
+}
+
+#link_abre2{
+    font-weight: normal;
+    font-size: smaller;
+}
+
+.tudo{
+    padding: 290px;
+    padding-left: 100px;
+}
+
+.foto{
+    padding-left: 900px;
+    position: absolute;
+    padding-top: 200px;
+    
+ }
